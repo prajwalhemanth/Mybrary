@@ -1,2 +1,2 @@
 # Mybrary
- Mini Library 
+ An online book store for students to share educational resources 
